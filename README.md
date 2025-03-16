@@ -13,9 +13,4 @@ Este projeto tem como objetivo desenvolver um gerador de QR Codes personalizado 
 - Personalização de QR Code para links de produtos de e-commerce.
 - Simplicidade de uso e sem a necessidade de interface gráfica.
 
-## Instalação
-
-### Pré-requisitos
-Antes de começar, certifique-se de ter o Node.js instalado em sua máquina. Caso não tenha, você pode instalá-lo através do [site oficial do Node.js](https://nodejs.org/).
-
 
